@@ -1,0 +1,17 @@
+{
+  "name": "camo-js",
+  "version": "0.1.0",
+  "description": "Node CLI for obfuscating client dist scripts.",
+  "main": "index.js",
+  "repository": "https://github.com/austinbillings/camo-js.git",
+  "author": "Austin Billings <austin@austinbillings.com>",
+  "license": "MIT",
+  "link": {
+    "camo": "src/cli.js"
+  },
+  "dependencies": {
+    "atob": "^2.1.1",
+    "btoa": "^1.2.1",
+    "commander": "^2.15.1"
+  }
+}
